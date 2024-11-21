@@ -211,7 +211,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -1513,7 +1513,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -1522,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pagaMona_0: 6074007701797249309
+      pagaMona_1: 9050694737869609840
+      pagaMona_10: -7121990282079833872
+      pagaMona_11: 4424323711256256283
+      pagaMona_12: -8389644506966993500
+      pagaMona_13: -5770266381297805059
+      pagaMona_14: 17329613577267982
+      pagaMona_15: -3962381306482804210
+      pagaMona_16: 6241817681267963732
+      pagaMona_17: -4465108388672878550
+      pagaMona_18: -8132888909620305697
+      pagaMona_19: 1228555434913477208
+      pagaMona_2: 3614003695520664290
+      pagaMona_20: 621958794410189077
+      pagaMona_21: 1320224888415125932
+      pagaMona_22: -6454505422828099547
+      pagaMona_23: 4903522166730834243
+      pagaMona_24: -4690223477476072992
+      pagaMona_25: 2588130057513001572
+      pagaMona_26: -1556796622884225617
+      pagaMona_27: 8946289993345541839
+      pagaMona_28: 4655434373695854648
+      pagaMona_29: 2743298395471974856
+      pagaMona_3: 7109267010242736529
+      pagaMona_30: -9083291999962077621
+      pagaMona_31: -1575002154308253452
+      pagaMona_32: -8123921950565393834
+      pagaMona_33: -2931804962809699688
+      pagaMona_34: 7144141029085165723
+      pagaMona_35: 3994146999778794787
+      pagaMona_36: -8116271612483092176
+      pagaMona_37: 3563964198246092298
+      pagaMona_38: -586915445261521677
+      pagaMona_39: -5873687665559906679
+      pagaMona_4: -8413825640604416284
+      pagaMona_40: 7712538699111023115
+      pagaMona_41: -6086033084940873238
+      pagaMona_42: -1097330258349931185
+      pagaMona_43: 1567168329824584208
+      pagaMona_44: -7157913129052436266
+      pagaMona_45: -3837850490689453542
+      pagaMona_46: -4114267542331450060
+      pagaMona_47: 1740831262053068643
+      pagaMona_48: 5524222377767684094
+      pagaMona_49: 4028733785599198775
+      pagaMona_5: 8602291415121654694
+      pagaMona_50: 1002520244109034526
+      pagaMona_51: 903030171523574958
+      pagaMona_52: -4452061989247700398
+      pagaMona_53: -8228604627433941919
+      pagaMona_54: 3959418197772828708
+      pagaMona_55: -7179799850663332806
+      pagaMona_6: -2739205972655208779
+      pagaMona_7: -2612624756326962388
+      pagaMona_8: -3624956318034570261
+      pagaMona_9: -7953534331263919139
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
