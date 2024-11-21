@@ -1,0 +1,13 @@
+# ninja log v5
+356	1052	7538917820000000	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	50770493d7b4859b
+1055	1986	7538917827900000	D:/Unity_Projects/Digi-Mind-Harmony/Digi-Mind Harmony/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/666b3h6d/obj/arm64-v8a/libswappywrapper.so	8f65a1848dff8ca9
+296	2356	7538917840000000	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1b1dc5212d6fbcf8
+86	2367	7538917840000000	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	6aca5fef1c3c7db9
+348	2371	7538917840000000	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5e3d2ec9cb07596d
+280	2380	7538917840000000	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d49b8f2c92bb935f
+310	2395	7538917840000000	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6685c8a43ec30ee5
+81	2425	7538917840000000	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9e4f55f10c1176b9
+142	2506	7538917840000000	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9e4083e14d5da091
+124	2567	7538917840000000	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3f45fdfddc8c024c
+2567	2633	7538917834400000	D:/Unity_Projects/Digi-Mind-Harmony/Digi-Mind Harmony/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/666b3h6d/obj/arm64-v8a/libgame.so	a0512f9d721d0961
+9	155	7538919916200000	D:/Unity_Projects/Digi-Mind-Harmony/Digi-Mind Harmony/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/666b3h6d/obj/arm64-v8a/libgame.so	a0512f9d721d0961
