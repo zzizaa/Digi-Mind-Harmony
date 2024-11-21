@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.Notifications.Android;
@@ -6,7 +7,6 @@ using UnityEngine.Android;
 
 public class AndroidNotificationController : MonoBehaviour
 {
-    [SerializeField] private int numberOfNotifications = 10;
     public void RequestAuthorization()
     {
         if (!Permission.HasUserAuthorizedPermission("android.permission.POST_NOTIFICATIONS"))
@@ -37,7 +37,7 @@ public class AndroidNotificationController : MonoBehaviour
         AndroidNotificationCenter.SendNotification(notification, "default_channel");
     }
 
-    public void ScheduleRecurringNotifications(string title, string text)
+    public void ScheduleRecurringNotifications(string title, string text, int time, int numberOfNotifications)
     {
         for (int i = 0; i < numberOfNotifications; i++)
         {
@@ -45,10 +45,37 @@ public class AndroidNotificationController : MonoBehaviour
             {
                 Title = title,
                 Text = text,
-                FireTime = System.DateTime.Now.AddSeconds(10 * i),
+                FireTime = System.DateTime.Now.AddSeconds(time * i),
             };
 
             AndroidNotificationCenter.SendNotification(notification, "default_channel");
         }
+    }
+
+    public void ScheduleDailyNotification(int hour, int minute)
+    {
+        // Calcola il prossimo orario delle 18:00
+        DateTime now = DateTime.Now;
+        DateTime scheduledTime = new DateTime(now.Year, now.Month, now.Day, hour, minute, 0);
+
+        // Se l'orario è già passato per oggi, programma per domani
+        if (scheduledTime < now)
+        {
+            scheduledTime = scheduledTime.AddDays(1);
+        }
+
+        // Configura la notifica
+        var notification = new AndroidNotification()
+        {
+            Title = "Promemoria Giornaliero",
+            Text = "Questa è la tua notifica giornaliera!",
+            FireTime = scheduledTime,
+            RepeatInterval = TimeSpan.FromDays(1) // Ripetizione giornaliera
+        };
+
+        // Invia la notifica
+        AndroidNotificationCenter.SendNotification(notification, "default_channel");
+
+        Debug.Log($"Notifica pianificata per: {scheduledTime}");
     }
 }
