@@ -52,13 +52,11 @@ public class AndroidNotificationController : MonoBehaviour
         }
     }
 
-    public void ScheduleDailyNotification(int hour, int minute)
+    public void ScheduleDailyNotification(string title, string text, int hour, int minute)
     {
-        // Calcola il prossimo orario delle 18:00
         DateTime now = DateTime.Now;
         DateTime scheduledTime = new DateTime(now.Year, now.Month, now.Day, hour, minute, 0);
 
-        // Se l'orario è già passato per oggi, programma per domani
         if (scheduledTime < now)
         {
             scheduledTime = scheduledTime.AddDays(1);
@@ -67,10 +65,10 @@ public class AndroidNotificationController : MonoBehaviour
         // Configura la notifica
         var notification = new AndroidNotification()
         {
-            Title = "Promemoria Giornaliero",
-            Text = "Questa è la tua notifica giornaliera!",
+            Title = title,
+            Text = text,
             FireTime = scheduledTime,
-            RepeatInterval = TimeSpan.FromDays(1) // Ripetizione giornaliera
+            RepeatInterval = TimeSpan.FromDays(1) 
         };
 
         // Invia la notifica

@@ -15,7 +15,7 @@ public class NativeNotificationController : MonoBehaviour
         androidNotificationController.RegisterNotificationChannel();
         //androidNotificationController.SendNotification("Test", "Notification from Unity App", 10);
         androidNotificationController.ScheduleRecurringNotifications("Stay Hydrated!", "Don't forget to drink water", 10, 5);
-        androidNotificationController.ScheduleDailyNotification(20, 5);
+        androidNotificationController.ScheduleDailyNotification("Daily Notification!","Write the message", 18, 0);
     }
 
     
