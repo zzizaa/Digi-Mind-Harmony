@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 4abc3088b3ac8064699b5f0cb0a6b74d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8083135874073772748
+    second: pagaMonaSenza_0
+  - first:
+      213: -8921752343177790367
+    second: pagaMonaSenza_1
+  - first:
+      213: 8827030213831859102
+    second: pagaMonaSenza_2
+  - first:
+      213: 23793564608677707
+    second: pagaMonaSenza_3
+  - first:
+      213: -8179927357969755848
+    second: pagaMonaSenza_4
+  - first:
+      213: -2897830154998060397
+    second: pagaMonaSenza_5
+  - first:
+      213: 3011635884889352008
+    second: pagaMonaSenza_6
+  - first:
+      213: -2975061377950470389
+    second: pagaMonaSenza_7
+  - first:
+      213: 2577651295138063397
+    second: pagaMonaSenza_8
+  - first:
+      213: -3946856441052481671
+    second: pagaMonaSenza_9
+  - first:
+      213: 7694451069081880951
+    second: pagaMonaSenza_10
+  - first:
+      213: -6090564233804230303
+    second: pagaMonaSenza_11
+  - first:
+      213: -1615039600235361070
+    second: pagaMonaSenza_12
+  - first:
+      213: 9146959509898049726
+    second: pagaMonaSenza_13
+  - first:
+      213: 1748549498329153582
+    second: pagaMonaSenza_14
+  - first:
+      213: -2713436907969807680
+    second: pagaMonaSenza_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pagaMonaSenza_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 248
+        width: 401
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dbd92bfbee2df80800000000000000
+      internalID: -8083135874073772748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 100
+        width: 268
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cf0ea63819f2480800000000000000
+      internalID: -8921752343177790367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 305
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b961d3639ef7a70800000000000000
+      internalID: 8827030213831859102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47c076fe18845000800000000000000
+      internalID: 23793564608677707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10
+        width: 414
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83196b3386f0b7e80800000000000000
+      internalID: -8179927357969755848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aecefc3d6d8c7d0800000000000000
+      internalID: -2897830154998060397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84726a781ea7bc920800000000000000
+      internalID: 3011635884889352008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 10
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f2746707576b6d0800000000000000
+      internalID: -2975061377950470389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524a7892238a5c320800000000000000
+      internalID: 2577651295138063397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 7
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977ba9b6af2f939c0800000000000000
+      internalID: -3946856441052481671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 7
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779004afa7e28ca60800000000000000
+      internalID: 7694451069081880951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161566a3918f97ba0800000000000000
+      internalID: -6090564233804230303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 8
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc48c95a0a3699e0800000000000000
+      internalID: -1615039600235361070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 8
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ba5a263780fe70800000000000000
+      internalID: 9146959509898049726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 6
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c8182188144810800000000000000
+      internalID: 1748549498329153582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMonaSenza_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca7604328fe75ad0800000000000000
+      internalID: -2713436907969807680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pagaMonaSenza_0: -8083135874073772748
+      pagaMonaSenza_1: -8921752343177790367
+      pagaMonaSenza_10: 7694451069081880951
+      pagaMonaSenza_11: -6090564233804230303
+      pagaMonaSenza_12: -1615039600235361070
+      pagaMonaSenza_13: 9146959509898049726
+      pagaMonaSenza_14: 1748549498329153582
+      pagaMonaSenza_15: -2713436907969807680
+      pagaMonaSenza_2: 8827030213831859102
+      pagaMonaSenza_3: 23793564608677707
+      pagaMonaSenza_4: -8179927357969755848
+      pagaMonaSenza_5: -2897830154998060397
+      pagaMonaSenza_6: 3011635884889352008
+      pagaMonaSenza_7: -2975061377950470389
+      pagaMonaSenza_8: 2577651295138063397
+      pagaMonaSenza_9: -3946856441052481671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

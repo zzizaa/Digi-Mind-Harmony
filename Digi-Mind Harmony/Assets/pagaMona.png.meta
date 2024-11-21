@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: 73fd494caae751c468ef2d9a2df9439e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6074007701797249309
+    second: pagaMona_0
+  - first:
+      213: 9050694737869609840
+    second: pagaMona_1
+  - first:
+      213: 3614003695520664290
+    second: pagaMona_2
+  - first:
+      213: 7109267010242736529
+    second: pagaMona_3
+  - first:
+      213: -8413825640604416284
+    second: pagaMona_4
+  - first:
+      213: 8602291415121654694
+    second: pagaMona_5
+  - first:
+      213: -2739205972655208779
+    second: pagaMona_6
+  - first:
+      213: -2612624756326962388
+    second: pagaMona_7
+  - first:
+      213: -3624956318034570261
+    second: pagaMona_8
+  - first:
+      213: -7953534331263919139
+    second: pagaMona_9
+  - first:
+      213: -7121990282079833872
+    second: pagaMona_10
+  - first:
+      213: 4424323711256256283
+    second: pagaMona_11
+  - first:
+      213: -8389644506966993500
+    second: pagaMona_12
+  - first:
+      213: -5770266381297805059
+    second: pagaMona_13
+  - first:
+      213: 17329613577267982
+    second: pagaMona_14
+  - first:
+      213: -3962381306482804210
+    second: pagaMona_15
+  - first:
+      213: 6241817681267963732
+    second: pagaMona_16
+  - first:
+      213: -4465108388672878550
+    second: pagaMona_17
+  - first:
+      213: -8132888909620305697
+    second: pagaMona_18
+  - first:
+      213: 1228555434913477208
+    second: pagaMona_19
+  - first:
+      213: 621958794410189077
+    second: pagaMona_20
+  - first:
+      213: 1320224888415125932
+    second: pagaMona_21
+  - first:
+      213: -6454505422828099547
+    second: pagaMona_22
+  - first:
+      213: 4903522166730834243
+    second: pagaMona_23
+  - first:
+      213: -4690223477476072992
+    second: pagaMona_24
+  - first:
+      213: 2588130057513001572
+    second: pagaMona_25
+  - first:
+      213: -1556796622884225617
+    second: pagaMona_26
+  - first:
+      213: 8946289993345541839
+    second: pagaMona_27
+  - first:
+      213: 4655434373695854648
+    second: pagaMona_28
+  - first:
+      213: 2743298395471974856
+    second: pagaMona_29
+  - first:
+      213: -9083291999962077621
+    second: pagaMona_30
+  - first:
+      213: -1575002154308253452
+    second: pagaMona_31
+  - first:
+      213: -8123921950565393834
+    second: pagaMona_32
+  - first:
+      213: -2931804962809699688
+    second: pagaMona_33
+  - first:
+      213: 7144141029085165723
+    second: pagaMona_34
+  - first:
+      213: 3994146999778794787
+    second: pagaMona_35
+  - first:
+      213: -8116271612483092176
+    second: pagaMona_36
+  - first:
+      213: 3563964198246092298
+    second: pagaMona_37
+  - first:
+      213: -586915445261521677
+    second: pagaMona_38
+  - first:
+      213: -5873687665559906679
+    second: pagaMona_39
+  - first:
+      213: 7712538699111023115
+    second: pagaMona_40
+  - first:
+      213: -6086033084940873238
+    second: pagaMona_41
+  - first:
+      213: -1097330258349931185
+    second: pagaMona_42
+  - first:
+      213: 1567168329824584208
+    second: pagaMona_43
+  - first:
+      213: -7157913129052436266
+    second: pagaMona_44
+  - first:
+      213: -3837850490689453542
+    second: pagaMona_45
+  - first:
+      213: -4114267542331450060
+    second: pagaMona_46
+  - first:
+      213: 1740831262053068643
+    second: pagaMona_47
+  - first:
+      213: 5524222377767684094
+    second: pagaMona_48
+  - first:
+      213: 4028733785599198775
+    second: pagaMona_49
+  - first:
+      213: 1002520244109034526
+    second: pagaMona_50
+  - first:
+      213: 903030171523574958
+    second: pagaMona_51
+  - first:
+      213: -4452061989247700398
+    second: pagaMona_52
+  - first:
+      213: -8228604627433941919
+    second: pagaMona_53
+  - first:
+      213: 3959418197772828708
+    second: pagaMona_54
+  - first:
+      213: -7179799850663332806
+    second: pagaMona_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pagaMona_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 473
+        width: 401
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11ac94c2d53b4450800000000000000
+      internalID: 6074007701797249309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 325
+        width: 268
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b173559e68a9d70800000000000000
+      internalID: 9050694737869609840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 530
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea45789635872230800000000000000
+      internalID: 3614003695520664290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 353
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191fbe6eda039a260800000000000000
+      internalID: 7109267010242736529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 250
+        width: 414
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e643b188261c3b80800000000000000
+      internalID: -8413825640604416284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 192
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3f7b4177a716770800000000000000
+      internalID: 8602291415121654694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 191
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b602494ea26cf9d0800000000000000
+      internalID: -2739205972655208779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 190
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b6dbb50a71ebbd0800000000000000
+      internalID: -2612624756326962388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 191
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3dd314f6191bdc0800000000000000
+      internalID: -3624956318034570261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 192
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbd3245aae5f9190800000000000000
+      internalID: -7953534331263919139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 192
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0f8d6829b992d90800000000000000
+      internalID: -7121990282079833872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f54cc69fa566d30800000000000000
+      internalID: 4424323711256256283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 192
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5dc6a65cef19b80800000000000000
+      internalID: -8389644506966993500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 192
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89d536c45ebefa0800000000000000
+      internalID: -5770266381297805059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 191
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b2e5511319d3000800000000000000
+      internalID: 17329613577267982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 192
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ab172023bc209c0800000000000000
+      internalID: -3962381306482804210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 192
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457babc4c146f9650800000000000000
+      internalID: 6241817681267963732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 191
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a284981e39fb802c0800000000000000
+      internalID: -4465108388672878550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 191
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd02e5860ac222f80800000000000000
+      internalID: -8132888909620305697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 192
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b4eca8a4bc0110800000000000000
+      internalID: 1228555434913477208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 152
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511efbd6a34a1a800800000000000000
+      internalID: 621958794410189077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca10d998a81625210800000000000000
+      internalID: 1320224888415125932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 152
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528af7fe38dfc66a0800000000000000
+      internalID: -6454505422828099547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 152
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341ce304e6fcc0440800000000000000
+      internalID: 4903522166730834243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 152
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e167dbd89af8eeb0800000000000000
+      internalID: -4690223477476072992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 152
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462e2962392eae320800000000000000
+      internalID: 2588130057513001572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 152
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad357148b5256ae0800000000000000
+      internalID: -1556796622884225617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 152
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc62ef6795b972c70800000000000000
+      internalID: 8946289993345541839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_28
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 152
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838d847b5ec6b9040800000000000000
+      internalID: 4655434373695854648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 152
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c191072b57221620800000000000000
+      internalID: 2743298395471974856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_30
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 152
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46ec172d0aa1f180800000000000000
+      internalID: -9083291999962077621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_31
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 152
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f84bf7a2e7742ae0800000000000000
+      internalID: -1575002154308253452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_32
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 152
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a1d814708024f80800000000000000
+      internalID: -8123921950565393834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_33
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 152
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89220017be22057d0800000000000000
+      internalID: -2931804962809699688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_34
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 152
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b983ae72a66152360800000000000000
+      internalID: 7144141029085165723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_35
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 152
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dd18ec88f0e6730800000000000000
+      internalID: 3994146999778794787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_36
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 104
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031cb5568f53d5f80800000000000000
+      internalID: -8116271612483092176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e0bac3e8eb57130800000000000000
+      internalID: 3563964198246092298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 103
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc2ffb138bdad7f0800000000000000
+      internalID: -586915445261521677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 104
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98655b430387c7ea0800000000000000
+      internalID: -5873687665559906679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 103
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0247f48511780b60800000000000000
+      internalID: 7712538699111023115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 104
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae113d887211a8ba0800000000000000
+      internalID: -6086033084940873238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 104
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45c3c5a1ff75c0f0800000000000000
+      internalID: -1097330258349931185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_43
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 103
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012cf62fa43bfb510800000000000000
+      internalID: 1567168329824584208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 100
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d889b1feebf9ac90800000000000000
+      internalID: -7157913129052436266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_45
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 104
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12856100573dbac0800000000000000
+      internalID: -3837850490689453542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_46
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 103
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d1a64f77f27e6c0800000000000000
+      internalID: -4114267542331450060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 103
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f619c3fcca82810800000000000000
+      internalID: 1740831262053068643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_48
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 104
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef74b17ebfaf9ac40800000000000000
+      internalID: 5524222377767684094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_49
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 103
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73641496800f8e730800000000000000
+      internalID: 4028733785599198775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_50
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 104
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c146b9daa9ed00800000000000000
+      internalID: 1002520244109034526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_51
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 103
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac6f131825388c00800000000000000
+      internalID: 903030171523574958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_52
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 104
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2523fd475391732c0800000000000000
+      internalID: -4452061989247700398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_53
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 104
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1641aa830bf1ecd80800000000000000
+      internalID: -8228604627433941919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_54
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 103
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420877b7fdda2f630800000000000000
+      internalID: 3959418197772828708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagaMona_55
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 103
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343fc6731a3c5c90800000000000000
+      internalID: -7179799850663332806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
